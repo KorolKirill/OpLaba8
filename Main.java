@@ -3,6 +3,8 @@ import java.util.Arrays;
 import java.util.Date;
 
 public class Main {
+    //something
+    //ssdsad
     public static void main(String[] args) {
         VideoClip suicidal  = new VideoClip("Suicidal ",2.37);
         suicidal.setText(
